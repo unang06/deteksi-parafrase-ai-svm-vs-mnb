@@ -27,13 +27,7 @@ berbahasa Indonesia penting, dan apa tujuan penelitian ini.
 Kesimpulan singkat: model mana yang lebih baik dan kenapa.
 (Opsional: tempel gambar confusion matrix)
 
-## Cara Menjalankan
-git clone https://github.com/USERNAME/NAMA-REPO.git
-cd NAMA-REPO
-pip install -r requirements.txt
-jupyter notebook notebooks/Kode.ipynb
 
 ## Teknologi
 Python, scikit-learn, pandas, matplotlib, seaborn
 
-## Penulis
