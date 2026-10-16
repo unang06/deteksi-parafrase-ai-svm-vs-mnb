@@ -37,4 +37,3 @@ jupyter notebook notebooks/Kode.ipynb
 Python, scikit-learn, pandas, matplotlib, seaborn
 
 ## Penulis
-Tegar, [LinkedIn](link-linkedin-anda)
